@@ -1,0 +1,59 @@
+
+
+body{
+	background: url('/static/bg.jpg');
+	color: #fff;
+	font-weight: bold;
+}
+
+
+h1{
+	color:#54C6FC;
+	font-style: italic;
+}
+
+p{
+	text-align: center;
+}
+.deets{
+	background: hsla(212, 57%, 0%, 0.7);
+}
+
+.textarea, .textinput{
+	 background: hsla(212, 57%, 0%, 0.7);
+	 border: solid #fff ;
+}
+
+
+.country_image{
+	border: solid #fff;
+	width: 75%;
+}
+
+.card{
+	background: hsla(212, 57%, 0%, 0.7);
+	border: solid #fff;
+	color:708EFF;
+}
+
+.card-img-top{
+	background: 50% 50%;
+	width: 100%;
+  	height: 250px;
+}
+.card-title{
+	color: #fff;
+}
+
+.card-text{
+	color: #54C6FC;
+}
+
+.navbar{
+	background: #4096BF;
+
+}
+
+.nav-text{
+	color:#fff;
+}
